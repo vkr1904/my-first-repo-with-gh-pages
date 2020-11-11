@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+
+<asciinema-player src="/370563.cast" cols="72" rows="19"></asciinema-player>
+...
+<script src="/asciinema-player.js"></script>
+
 You can use the [editor on GitHub](https://github.com/vkr1904/my-first-repo-with-gh-pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
